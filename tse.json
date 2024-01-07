@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "data": {
+        "qualifier": "1704608849",
+        "id": "436085738309006",
+        "widgetName": "sp_atf",
+        "adId": "20033729216207",
+        "eventType": "1",
+        "adIndex": "0"
+      }
+    },
+    {
+      "data": {
+        "qualifier": "1704608849",
+        "id": "436085738309006",
+        "widgetName": "sp_atf",
+        "adId": "300106337097632",
+        "eventType": "1",
+        "adIndex": "1"
+      }
+    },
+    {
+      "data": {
+        "qualifier": "1704608849",
+        "id": "436085738309006",
+        "widgetName": "sp_atf",
+        "adId": "300106337097832",
+        "eventType": "1",
+        "adIndex": "2"
+      }
+    },
+    {
+      "data": {
+        "qualifier": "1704608849",
+        "id": "436085738309006",
+        "widgetName": "sp_atf",
+        "adId": "300106337097932",
+        "eventType": "1",
+        "adIndex": "3"
+      }
+    }
+  ]
+}
